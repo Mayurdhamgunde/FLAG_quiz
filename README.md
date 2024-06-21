@@ -25,13 +25,13 @@ This is full-stack web development project ceated using HTML, CSS, JavaScript, N
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-1.jpg?raw=true" width="93%"/>
 <img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-2.jpg?raw=true" width="93%"/>
 <span>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-3.jpg?raw=true" width="49%"/>&nbsp;&nbsp;&nbsp;
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-4.jpg?raw=true" width="49%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-3.jpg?raw=true" width="42%"/>&nbsp;&nbsp;&nbsp;
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-4.jpg?raw=true" width="42%"/>
 </span>
 <br>
 <span>
 <br>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-5.jpg?raw=true" width="49%"/>&nbsp;&nbsp;&nbsp;
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-6.jpg?raw=true" width="49%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-5.jpg?raw=true" width="45%"/>&nbsp;&nbsp;&nbsp;
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-6.jpg?raw=true" width="45%"/>
 </span>
 
