@@ -2,9 +2,9 @@
 
 This is full-stack web development project ceated using HTML, CSS, JavaScript, Node.js, Express.js, EJS and relational database <strong>postgreSQL</strong>. 
 
-<h4>🌐 Displays a flag from my PostgreSQL database<br>
-🤔 Prompts the user to name the country the flag belongs to<br>
-✅ Validates the answer and provides immediate feedback</h4>
+<h4>🌐 Displays a flag from my PostgreSQL database</h4>
+<h4>🤔 Prompts the user to name the country the flag belongs to</h4>
+<h4>✅ Validates the answer and provides immediate feedback</h4>
 
 <h2><i>📃 In order to use this project on your pc, follow these steps:-</i></h2>
 
@@ -22,12 +22,16 @@ This is full-stack web development project ceated using HTML, CSS, JavaScript, N
 
 # 📸Snapshots : - 
 
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/Family_Tracker_record-ezgif.com-video-to-gif-converter.gif?raw=true" width="90%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-1.jpg?raw=true" width="93%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-2.jpg?raw=true" width="93%"/>
 <span>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/photo-1.jpg?raw=true" width="90%"/>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/photo-2.jpg?raw=true" width="90%"/>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/photo-3.jpg?raw=true" width="90%"/>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/photo-4.jpg?raw=true" width="90%"/>
-<img alt="GIF" src="https://github.com/Mayurdhamgunde/FAMILY_TRAVEL_Tracker/blob/master/FAMILY_TRACER/photo-5.jpg?raw=true" width="90%"/>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-3.jpg?raw=true" width="49%"/>&nbsp;&nbsp;&nbsp;
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-4.jpg?raw=true" width="49%"/>
+</span>
+<br>
+<span>
+<br>
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-5.jpg?raw=true" width="49%"/>&nbsp;&nbsp;&nbsp;
+<img alt="GIF" src="https://github.com/Mayurdhamgunde/FLAG_quiz/blob/master/FLAG_quiz_img/flagimg-6.jpg?raw=true" width="49%"/>
 </span>
 
